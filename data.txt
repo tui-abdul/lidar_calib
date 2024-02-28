@@ -1,0 +1,350 @@
+header:
+  stamp:
+    sec: 1709049353
+    nanosec: 286161238
+  frame_id: os_sensor
+point:
+  x: 1.2634531259536743
+  y: 0.2836689352989197
+  z: 0.33368155360221863
+---
+header:
+  stamp:
+    sec: 1709049357
+    nanosec: 379931755
+  frame_id: os_sensor
+point:
+  x: 1.2766549587249756
+  y: 0.23527421057224274
+  z: 0.25169333815574646
+---
+header:
+  stamp:
+    sec: 1709049361
+    nanosec: 116503556
+  frame_id: os_sensor
+point:
+  x: 1.2880021333694458
+  y: 0.19398154318332672
+  z: 0.17337580025196075
+---
+header:
+  stamp:
+    sec: 1709049364
+    nanosec: 142500976
+  frame_id: os_sensor
+point:
+  x: 1.3074761629104614
+  y: 0.14510513842105865
+  z: 0.09178932011127472
+---
+header:
+  stamp:
+    sec: 1709049367
+    nanosec: 246398829
+  frame_id: os_sensor
+point:
+  x: 1.3206785917282104
+  y: 0.09648437798023224
+  z: 0.015588000416755676
+---
+header:
+  stamp:
+    sec: 1709049372
+    nanosec: 519685385
+  frame_id: os_sensor
+point:
+  x: 1.2438842058181763
+  y: 0.3620033860206604
+  z: 0.284733384847641
+---
+header:
+  stamp:
+    sec: 1709049375
+    nanosec: 535182033
+  frame_id: os_sensor
+point:
+  x: 1.2464158535003662
+  y: 0.30719393491744995
+  z: 0.20339460670948029
+---
+header:
+  stamp:
+    sec: 1709049381
+    nanosec: 317804985
+  frame_id: os_sensor
+point:
+  x: 1.2656184434890747
+  y: 0.2592514157295227
+  z: 0.12509973347187042
+---
+header:
+  stamp:
+    sec: 1709049385
+    nanosec: 391419765
+  frame_id: os_sensor
+point:
+  x: 1.2772068977355957
+  y: 0.2169562131166458
+  z: 0.04834266006946564
+---
+header:
+  stamp:
+    sec: 1709049390
+    nanosec: 339347514
+  frame_id: os_sensor
+point:
+  x: 1.3016337156295776
+  y: 0.17278052866458893
+  z: -0.03357402980327606
+---
+header:
+  stamp:
+    sec: 1709049394
+    nanosec: 689593676
+  frame_id: os_sensor
+point:
+  x: 1.2078619003295898
+  y: 0.4319707155227661
+  z: 0.24959535896778107
+---
+header:
+  stamp:
+    sec: 1709049400
+    nanosec: 660561872
+  frame_id: os_sensor
+point:
+  x: 1.2191952466964722
+  y: 0.39125341176986694
+  z: 0.1578114777803421
+---
+header:
+  stamp:
+    sec: 1709049404
+    nanosec: 540495553
+  frame_id: os_sensor
+point:
+  x: 1.228248953819275
+  y: 0.33490657806396484
+  z: 0.07895870506763458
+---
+header:
+  stamp:
+    sec: 1709049407
+    nanosec: 616034266
+  frame_id: os_sensor
+point:
+  x: 1.246428370475769
+  y: 0.2910481095314026
+  z: -0.0016017404850572348
+---
+header:
+  stamp:
+    sec: 1709049412
+    nanosec: 154014568
+  frame_id: os_sensor
+point:
+  x: 1.2423955202102661
+  y: 0.2375103384256363
+  z: -0.07427947223186493
+---
+header:
+  stamp:
+    sec: 1709049419
+    nanosec: 828921232
+  frame_id: os_sensor
+point:
+  x: 1.154341697692871
+  y: 0.49871915578842163
+  z: 0.20062966644763947
+---
+header:
+  stamp:
+    sec: 1709049427
+    nanosec: 416914443
+  frame_id: os_sensor
+point:
+  x: 1.190036416053772
+  y: 0.45843708515167236
+  z: 0.12289352715015411
+---
+header:
+  stamp:
+    sec: 1709049430
+    nanosec: 624080068
+  frame_id: os_sensor
+point:
+  x: 1.1806806325912476
+  y: 0.40234291553497314
+  z: 0.03251631557941437
+---
+header:
+  stamp:
+    sec: 1709049434
+    nanosec: 356821196
+  frame_id: os_sensor
+point:
+  x: 1.2108012437820435
+  y: 0.3597707152366638
+  z: -0.04448847472667694
+---
+header:
+  stamp:
+    sec: 1709049442
+    nanosec: 118758075
+  frame_id: os_sensor
+point:
+  x: 1.2111961841583252
+  y: 0.31311583518981934
+  z: -0.12085752189159393
+---
+header:
+  stamp:
+    sec: 1709049451
+    nanosec: 111140912
+  frame_id: os_sensor
+point:
+  x: 1.1350573301315308
+  y: 0.5762776136398315
+  z: 0.14302416145801544
+---
+header:
+  stamp:
+    sec: 1709049455
+    nanosec: 309620939
+  frame_id: os_sensor
+point:
+  x: 1.1468662023544312
+  y: 0.533199667930603
+  z: 0.06425805389881134
+---
+header:
+  stamp:
+    sec: 1709049463
+    nanosec: 623759186
+  frame_id: os_sensor
+point:
+  x: 1.1542606353759766
+  y: 0.48328256607055664
+  z: -0.013274714350700378
+---
+header:
+  stamp:
+    sec: 1709049470
+    nanosec: 846251371
+  frame_id: os_sensor
+point:
+  x: 1.1727930307388306
+  y: 0.4379318356513977
+  z: -0.09092311561107635
+---
+header:
+  stamp:
+    sec: 1709049481
+    nanosec: 711259518
+  frame_id: os_sensor
+point:
+  x: 1.1860262155532837
+  y: 0.38915371894836426
+  z: -0.16616253554821014
+---
+header:
+  stamp:
+    sec: 1709049486
+    nanosec: 190019799
+  frame_id: os_sensor
+point:
+  x: 1.0927385091781616
+  y: 0.6472001075744629
+  z: 0.09770531952381134
+---
+header:
+  stamp:
+    sec: 1709049490
+    nanosec: 508782888
+  frame_id: os_sensor
+point:
+  x: 1.112090826034546
+  y: 0.5988109111785889
+  z: 0.01582987606525421
+---
+header:
+  stamp:
+    sec: 1709049495
+    nanosec: 193007317
+  frame_id: os_sensor
+point:
+  x: 1.134966492652893
+  y: 0.5604629516601562
+  z: -0.06008557975292206
+---
+header:
+  stamp:
+    sec: 1709049500
+    nanosec: 729751232
+  frame_id: os_sensor
+point:
+  x: 1.1484620571136475
+  y: 0.5107817649841309
+  z: -0.13849370181560516
+---
+header:
+  stamp:
+    sec: 1709049505
+    nanosec: 613882
+  frame_id: os_sensor
+point:
+  x: 1.1317538022994995
+  y: 0.459072470664978
+  z: -0.22111324965953827
+---
+header:
+  stamp:
+    sec: 1709049510
+    nanosec: 309362832
+  frame_id: os_sensor
+point:
+  x: 1.0576163530349731
+  y: 0.7141497135162354
+  z: 0.049672797322273254
+---
+header:
+  stamp:
+    sec: 1709049514
+    nanosec: 958637932
+  frame_id: os_sensor
+point:
+  x: 1.0808833837509155
+  y: 0.6744738817214966
+  z: -0.03142647445201874
+---
+header:
+  stamp:
+    sec: 1709049519
+    nanosec: 12321554
+  frame_id: os_sensor
+point:
+  x: 1.0887395143508911
+  y: 0.6227123737335205
+  z: -0.10790149867534637
+---
+header:
+  stamp:
+    sec: 1709049524
+    nanosec: 769027783
+  frame_id: os_sensor
+point:
+  x: 1.1005841493606567
+  y: 0.579721212387085
+  z: -0.19252435863018036
+---
+header:
+  stamp:
+    sec: 1709049529
+    nanosec: 577745914
+  frame_id: os_sensor
+point:
+  x: 1.1131726503372192
+  y: 0.5333812236785889
+  z: -0.26571181416511536
+---

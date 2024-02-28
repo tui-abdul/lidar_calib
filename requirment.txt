@@ -1,0 +1,6 @@
+Package      Version
+------------ -------
+checkerboard 0.2.4
+open3d       0.18.0
+pip          24.0
+pypylon      3.0.1
